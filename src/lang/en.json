@@ -1,0 +1,13 @@
+{
+    "hello": "hello!",
+    "link": "Let's learn React here",
+
+    "Weather Forecast": "Weather Forecast",
+    "本港預報": "Local Forecast",
+    "九天預報": "9-Day Forecast",
+    "延伸預報": "Extended Outlook",
+    "最高溫度概率預報": "Probability Forecast of Maximum Temperature",
+    "最低溫度概率預報": "Probability Forecast of Minimum Temperature",
+    "平均海平面氣壓概率預報": "Probability Forecast of Mean Sea Level Pressure",
+    "": ""
+}
