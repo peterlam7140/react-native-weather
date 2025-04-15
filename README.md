@@ -55,6 +55,23 @@ Now that you have successfully run the app, let's modify it.
 
    For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
 
+## Build APK
+```brew install watchman```
+```local.properties``` under ```./android```
+```sdk.dir = /home/USERNAME/Android/sdk```
+```sdk.dir = C://Users//USERNAME//AppData//Local//Android//sdk```
+```cd android```
+```./gradlew clean``` Clean your gradle
+```./gradlew assembleRelease``` and make a build finally
+
+------
+
+```npm i prop-types```
+
+------
+
+build.gradle -> ndkVersion
+
 ## Congratulations! :tada:
 
 You've successfully run and modified your React Native App. :partying_face:
